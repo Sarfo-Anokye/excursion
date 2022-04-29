@@ -19,3 +19,6 @@ body{
     font-size: 16px;
     color: aquamarine;
 }
+.main-content p, img, h1{
+    text-align: center;
+}
